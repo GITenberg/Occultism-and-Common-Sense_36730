@@ -1,0 +1,43 @@
+_repo: Occultism-and-Common-Sense_36730
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Barrett, William, Sir
+    aliases:
+    - Barrett, William Fletcher, Sir
+    - Barrett, W. F. (William F.), Sir
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '44600'
+    url: http://www.gutenberg.org/2009/agents/44600
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willson, Beckles
+    alias: Willson, Henry Beckles
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '38444'
+    url: http://www.gutenberg.org/2009/agents/38444
+description: ''
+gutenberg_issued: '2011-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Parapsychology'
+- !lcsh 'Spiritualism'
+tableOfContents: Introduction -- Science's attitude towards the "supernatural" --
+  The hypnotic state -- Phantasms of the living -- Dreams -- Hallucinations -- Phantasms
+  of the dead -- On "hauntings" and kindred phenomena -- The dowsing or divining rod
+  -- Mediumistic phenomena -- More physical phenomena -- The materialisation of "ghosts"
+  -- Spirit-photography -- Clairvoyance -- Mrs. Piper's trance utterances -- Afterword.
+title: Occultism and Common-Sense
+url: http://www.gutenberg.org/ebooks/36730
